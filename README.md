@@ -53,7 +53,7 @@ $ echo "Cybersecurity Arsenal Activated! 🚨"
 ## 🏆 Pencapaian Signifikan
 
 - **🥉 Juara 3 LKS Cybersecurity CTF 2025**
-  - Waktu Eksekusi: 12 Jam Kontinyu
+  - Waktu Eksekusi: 2 Jam Kontinyu
   - Fokus: Advanced Exploit Techniques
 
 - **🏅 Triple Medali Emas Fosnas 2024**
